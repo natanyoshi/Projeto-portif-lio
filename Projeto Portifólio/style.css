@@ -1,0 +1,61 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&display=swap');
+
+
+* {
+    box-sizing: border-box;
+    border: none;
+    font-family: "Baskervville";    
+    
+}
+
+.links a {
+    color: white;
+}
+
+.links :hover {
+    background-color: #4d2323;
+    color: blue;
+}
+
+.container1 {
+    width: 1200px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    background-image: url('https://h2ahubagroambiental.com.br/wp-content/uploads/2023/11/pinheiros-lindos-nas-montanhas-1.jpg');
+    margin: auto;
+    
+}
+
+.container2 {
+    width: 1200px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    background-color: #fdc9c9;
+    margin: 0;
+    padding: 10px;
+}
+
+
+h3 {
+    align-items: center;
+    justify-content: center;
+    color: rgb(102, 100, 105);
+}
+
+
+.bx bxl-linkedin {
+    font-size: large;
+}
+
+body{
+    background-image: url("https://assets-blog.hostgator.com.br/wp-content/uploads/2016/09/logica-de-programacao-blog.webp");
+}
+
+p {
+    color: rgb(0, 0, 0);
+}
+
+h1 {
+    color: rgb(28, 87, 136);
+}

@@ -1,0 +1,41 @@
+.Esposa {
+    color: red;
+}
+.FV {
+    color: blue;
+}
+.FN {
+    color:yellow
+}
+.SrSilva {
+    color:black
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(140 140 140);
+    font-family: sans-serif;
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+  }
+
+.Cabeça {
+    color: black;
+}
+
+.C1 {
+    color: blue;
+}
+
+.links :hover {
+    color: red;
+    font-size: 110%;
+    font-weight: 15 px;
+}
+
+.imt:hover {
+    img{opacity: 0.5;}
+}
+
+
+
